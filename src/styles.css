@@ -1,0 +1,201 @@
+body{
+    background-color: black !important;
+    font-family: 'Dancing Script', cursive;
+    margin: 0 auto;
+    align-items: center
+}
+
+#logo{
+    width: 100%; 
+    margin: 0 auto;  
+}
+
+
+
+#cabecera{
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px 20px 0 0;
+}
+
+#hog{
+font-size: 25px;
+color: white;
+}
+
+#callup{
+    width: 100%;
+    justify-content: space-between;
+    color: white;
+}
+
+
+
+
+.menu{
+    background-color: rgb(0, 0, 0);
+    padding: 8px 8px 13px 8px;
+}
+
+.men{
+background-color: rgb(0, 0, 0);
+text-align: center;
+
+font-size: 36px;
+box-shadow: 5px 5px 5px black;
+}
+
+.men:hover{
+    background-color: rgb(124, 124, 124);
+    
+   
+}
+
+#caja{
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px 20px 20PX 20PX;
+    padding-bottom: 7px;
+}
+
+#compendios{
+    width: 100%;
+    height: 400px;
+}
+
+#compendios img{
+    height: 400px;
+}
+
+#middle{
+    font-size: 86px;
+    margin: 0 auto;
+    background-color: rgb(59, 56, 56);
+}
+#middle p{
+    font-size: 86px;
+    color: #e0cb0a;
+}
+.let{
+    font-size: 86px;
+    margin: 0 auto;
+    background-color: rgb(59, 56, 56);
+    color: #e0cb0a;
+}
+
+.medio{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(0, 0, 0) ;
+   
+    height: auto;
+}
+
+.medio p{
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+
+.productos{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    margin-top: -5px;
+}
+
+.oferta{
+    background-color: rgb(235, 221, 25);
+    text-align: center;
+    padding: 10px;
+    width: 260px;
+    margin: 5px;
+    color: rgb(0, 0, 0);    
+    margin: 0 auto;
+    
+
+}
+.oferta imgs{
+    width: 90%;
+    height: 250px;
+    border: solid 1px #000000;
+    border-radius: 5px;
+}
+.oferta img{
+    width: 100%;
+    height: 250px;
+    border: solid 1px #0b5c22;
+    border-radius: 5px;
+}
+
+.item{
+    background-color: rgb(235, 221, 25);
+    text-align: center;
+    padding: 10px;
+    width: 260px;
+    margin: 5px;
+    color: rgb(0, 0, 0);    
+    margin: 0 auto;
+    
+
+}
+
+
+.item imgs{
+    width: 90%;
+    height: 250px;
+    border: solid 1px #000000;
+    border-radius: 5px;
+}
+
+.productos img{
+    width: 100%;
+}
+
+.productos button{
+    background-color: #000000;
+    color: white;
+}
+.item img{
+    width: 90%;
+    height: 250px;
+    border: solid 1px #0b5c22;
+    border-radius: 5px;
+}
+
+
+.banner img{
+    width: 100%;
+    
+      
+}
+
+#footer{
+   text-align: center;
+    
+}
+
+
+
+#log{
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+#log img{
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#callu{
+    color: white;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+
